@@ -1,0 +1,21 @@
+.tools{
+    background-color: beige;
+    height: 100px;
+ 
+}
+
+.tools:not(:first-child){
+    margin-top: 10px;
+}
+
+
+.toolsImg{
+    background-color: black;
+    width: 30%;
+    padding: 10px;
+}
+
+.toolsImg > img{
+    width: 100%;
+  
+}

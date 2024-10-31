@@ -1,0 +1,37 @@
+.left{
+
+}
+
+.right{ 
+    
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.verticalCenter{
+    display: flex;
+    align-items: center;
+}
+
+.horizontalCenter{
+    display: flex;
+    justify-content: center;
+}
+
+.round{
+    border-radius: 50%;
+}
+
+.shadown{
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+}
+
+.mouseHover:hover{
+    cursor: pointer;
+}

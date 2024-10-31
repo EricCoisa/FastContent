@@ -1,0 +1,28 @@
+.menu{
+    background-color: red;
+    width: 300px;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    left: -300px;
+    transition: 0.4s;
+}
+
+.menuOpen{
+    left: 0;
+}
+
+
+.btnMenu{
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    right: -30px;
+    top: 30px;
+    background-color: wheat;
+}
+
+.menuContent{
+    padding: 10px;
+    background-color: brown;
+}

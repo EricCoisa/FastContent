@@ -1,0 +1,14 @@
+.workstation{
+    background-color: aqua;
+    width: 100%;
+    min-height: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+.workstationContent{
+    background-color: white;
+    width: 75%;
+    padding: 10px;
+}

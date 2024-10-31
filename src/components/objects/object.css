@@ -1,0 +1,8 @@
+.object{
+    height: 100px;
+    width: 100%;
+}
+
+.object:not(:first-child){
+    margin-top: 10px;
+}
